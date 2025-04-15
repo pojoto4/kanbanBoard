@@ -4,7 +4,7 @@
 
 ## Description
 
-This is a front-end application that lets you organize yours tasks into Todo, In Progress and Done catefories.
+This is a front-end application that lets you organize yours tasks into Todo, In Progress and Done categories: https://kanbanboard-qq4g.onrender.com/
 
 ## Table of Contents
 
